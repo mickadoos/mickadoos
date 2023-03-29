@@ -16,17 +16,32 @@ Contact me:
 
 ---
 
-<h1 align="center">Hi 👋🏼, I'm Aitor</h1>
-<h3 align="center">A passionate FullStack developer from Barcelona and serial coffee drinker ☕️</h3>
+<!-- Intro  -->
+<h2 align="center">
+                Hey There! 👋, I am
+                <b>Yabel</b>
+  <br>
 
-A creative engineer based in Barcelona with a background in industrial engineering, fullstack development and design.
+</h2>
 
-Proactive and free spirit, learning from my own new techonolgies everyday to develop personal projects.
+<h4 align="center"> 
+       A motivated FullStack developer from Barcelona and learning enthusiast 👨‍🏫</b>
+</h4>
+
+---
+<img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
+
+<h1 align="center">Hi 👋🏼, I'm Yabel</h1>
+<h3 align="center">A motivated FullStack developer from Barcelona and learning enthusiast 👨‍🏫</h3>
+
+A creative developer based in Barcelona with a background in game development and education.
+
+I'm constantly learning new techonologies and methods to implement in my personal and cooperative projects
 
 Interested in UX/UI, digital media, innovative thinking and project management.
 
 - 📚 I love to be constantly learning
-- 📥 Contact me via <i>aitor.lancharro@gmail.com</i> or Linkedin <a href="https://es.linkedin.com/in/aitorlancharro">Aitor Lancharro</a>
+- 📥 Contact me via <i>yabelrr@gmail.com</i> or Linkedin <a href="https://es.linkedin.com/in/aitorlancharro">Aitor Lancharro</a>
               
               
 - ⚙️ <b>Fun fact</b>:  I studied mechanical engineering because I wanted to be like Tony Stark :)
