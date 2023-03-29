@@ -1,97 +1,75 @@
-## Projects
-#### DPlan
-[![JusiBP Banner](../main/DPlan.png)](https://famous-brioche-240d75.netlify.app/)
-
-[DPlan](https://famous-brioche-240d75.netlify.app/) is a **Full Stack application** meant to help users plannify their private events such as parties or social meetings in a simple way. Organizing plans has never been so easy!
-
-Developed in 5 days at Ironhack with two more colleagues using React, **Javascript, Node.js, Express & MongoDB**. (check the Frontend repo [here](https://github.com/PmplCode/DPlan-front) and the Backend repo [here](https://github.com/PmplCode/DPlan-back))
-
----
-
-Contact me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yabel-rodriguez)
-
-[![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yabelrr@gmail.com)
-
----
 
 <!-- Intro  -->
-<h2 align="center">
-                Hey There! 👋, I am
-                <b>Yabel</b>
-  <br>
+<h1 align="center">
+                Hey There! 👋, I am 
+                <b><a style="text-decoration:none;" target="_blank" href="https://yabelrodriguez.netlify.app/">Yabel</a></b>
+</h1>
 
-</h2>
-
-<h4 align="center"> 
+<h3 align="center"> 
        A motivated FullStack developer from Barcelona and learning enthusiast 👨‍🏫</b>
-</h4>
+</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/yabel-rodriguez" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"
+      alt="aitorlancharrohurtado"
+      width="24"
+    />
+  </a>
+  &nbsp;
+  <a href="https://yabelrodriguez.netlify.app/" target="blank"
+    ><img
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Blue_globe_icon.svg"
+      alt="yabel portofolio"
+      width="24"
+    />
+  </a>
+</p>
 
 ---
-<img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
 
-<h1 align="center">Hi 👋🏼, I'm Yabel</h1>
-<h3 align="center">A motivated FullStack developer from Barcelona and learning enthusiast 👨‍🏫</h3>
+<p>
+ <a href="https://yabelrodriguez.netlify.app/" target="blank">
+   <img align="right" width="350" src="/assets/develop-web.gif" alt="Coding gif" />
+  </a>
+  
+ 💻 &emsp; A creative developer based in Barcelona with a background in game development.<br/><br/>
+ 📚 &emsp; I'm constantly learning new techonologies and methods for my personal projects.<br/><br/>
+ 📬 &emsp; Reach me anytime: <em>yabelrr@gmail.com</em><br/><br/>
+ 💬 &emsp; Ask me about anything <em>[here](https://yabelrodriguez.netlify.app/#contact)</em>
 
-A creative developer based in Barcelona with a background in game development and education.
+</p>
 
-I'm constantly learning new techonologies and methods to implement in my personal and cooperative projects
-
-Interested in UX/UI, digital media, innovative thinking and project management.
-
-- 📚 I love to be constantly learning
-- 📥 Contact me via <i>yabelrr@gmail.com</i> or Linkedin <a href="https://es.linkedin.com/in/aitorlancharro">Aitor Lancharro</a>
-              
-              
-- ⚙️ <b>Fun fact</b>:  I studied mechanical engineering because I wanted to be like Tony Stark :)
+</br>
 
 ## Languages and Tools
 <div>
   <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5"
         width="37"
       />
-    </a>
     &nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         alt="css3"
         width="37"
       />
-    </a>
     &nbsp;
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="_blank"
-      rel="noreferrer"
-    >
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
         alt="javascript"
         width="30"
       />
-    </a>
     &nbsp;
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"
         alt="react"
         width="30"
       />
-    </a>
-    &nbsp;
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"
-        alt="vuejs"
-        width="30"
-      />
-    </a>
     &nbsp;
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img
@@ -109,29 +87,11 @@ Interested in UX/UI, digital media, innovative thinking and project management.
       />
     </a>
     &nbsp;
-    <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://user-images.githubusercontent.com/93733677/187199611-72d12457-21a3-4b54-94a7-52fa253863bb.svg"
-        alt="supabase"
-        width="30"
-      />
-    </a>
-    &nbsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
         alt="git"
         width="30"
       />
-    </a>
-    &nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"
-        alt="TailwindCSS"
-        width="40"
-      />
-    </a>
     &nbsp;
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img
@@ -141,56 +101,41 @@ Interested in UX/UI, digital media, innovative thinking and project management.
       />
     </a>
     &nbsp;
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-        alt="figma"
-        width="30"
-      />
-    </a>
   </p>
 </div>
 
-## GitHub Stats
+## GitHub Repos
+
+[![Hello](https://github-readme-stats.vercel.app/api/pin/?username=PmplCode&repo=DPlan-front&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&align=center)](https://github.com/PmplCode/DPlan-front)
+[![DPlan Back](https://github-readme-stats.vercel.app/api/pin/?username=PmplCode&repo=DPlan-back&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/PmplCode/DPlan-back)
+[![React Portfolio Yabel](https://github-readme-stats.vercel.app/api/pin/?username=mickadoos&repo=react-portfolio-yabel&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mickadoos/react-portfolio-yabel)
+[![Game Project X](https://github-readme-stats.vercel.app/api/pin/?username=mickadoos&repo=game-project-x&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mickadoos/game-project-x)
+
+<!-- (https://github-readme-stats.vercel.app/api/pin/?username=PmplCode&repo=DPlan-front&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&align=center) -->
+
+</br>
 
 <div align="center">
  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=mickadoos&show_icons=true&locale=en&hide=issues" alt="Yabel Rodríguez Github Stats" />
- <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanch8&layout=compact" alt="Aitor Lancharro Programming Language Stats" />
+ <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickadoos&layout=compact" alt="Yabel Rodríguez Programming Language Stats" />
 </div>
 
 ## Contact Me
 <p align="center">
-  <a href="https://linkedin.com/in/aitorlancharrohurtado" target="blank"
+  <a href="https://linkedin.com/in/yabel-rodriguez" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"
       alt="aitorlancharrohurtado"
       width="24"
     />
   </a>
-  &nbsp;<a href="https://twitter.com/alanch_8" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="alanch_8"
-      width="24"
-    />
-  </a>
   &nbsp;
-  <a href="https://instagram.com/alanch8" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="alanch8"
-      width="24"
-    />
-  </a>
-  &nbsp;
-  <a href="https://aitorlancharro.com/" target="blank"
+  <a href="https://yabelrodriguez.netlify.app/" target="blank"
     ><img
       align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Blue_globe_icon.svg"
-      alt="alanch8"
+      alt="yabel portofolio"
       width="24"
     />
   </a>
