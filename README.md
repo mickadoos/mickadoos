@@ -8,25 +8,6 @@
 <h3 align="center"> 
        A motivated FullStack developer from Barcelona and learning enthusiast 👨‍🏫</b>
 </h3>
-<p align="center">
-  <a href="https://linkedin.com/in/yabel-rodriguez" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"
-      alt="aitorlancharrohurtado"
-      width="24"
-    />
-  </a>
-  &nbsp;
-  <a href="https://yabelrodriguez.netlify.app/" target="blank"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Blue_globe_icon.svg"
-      alt="yabel portofolio"
-      width="24"
-    />
-  </a>
-</p>
 
 ---
 
