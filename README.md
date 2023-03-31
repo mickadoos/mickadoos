@@ -85,7 +85,7 @@
   </p>
 </div>
 
-## GitHub Repos
+<!-- ## GitHub Repos
 <div align="center">
 
 [![Hello](https://github-readme-stats.vercel.app/api/pin/?username=PmplCode&repo=DPlan-front&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&align=center)](https://github.com/PmplCode/DPlan-front)
@@ -108,7 +108,7 @@
  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=mickadoos&show_icons=true&locale=en&hide=issues" alt="Yabel Rodríguez Github Stats" />
  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickadoos&layout=compact" alt="Yabel Rodríguez Programming Language Stats" />
 </div> -->
-
+-->
 ## Contact Me
 <p align="center">
   <a href="https://linkedin.com/in/yabel-rodriguez" target="blank"
