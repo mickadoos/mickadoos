@@ -5,7 +5,7 @@ on:
       branch:
         description: 'main'
         required: true
-        default: 'master'
+        default: 'main'
 
 jobs:
   Undo:
