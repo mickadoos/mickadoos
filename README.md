@@ -1,5 +1,3 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <!-- Intro  -->
 <h1 align="center">
