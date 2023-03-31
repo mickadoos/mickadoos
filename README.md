@@ -94,9 +94,9 @@
 [![Game Project X](https://github-readme-stats.vercel.app/api/pin/?username=mickadoos&repo=game-project-x&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mickadoos/game-project-x)
 
 ![Mickadoos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mickadoos&show_icons=true&theme=transparent)</br>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickadoos&hide_progress=true)](https://github.com/mickadoos/github-readme-stats)</br> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickadoos&hide_progress=true)](https://github.com/mickadoos/github-readme-stats)</br>
 
-<!-- [![Mickadoos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mickadoos)](https://github.com/mickadoos/github-readme-stats) -->
+[![Mickadoos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mickadoos)](https://github.com/mickadoos/github-readme-stats)
 </div>
 <!-- (https://github-readme-stats.vercel.app/api/pin/?username=PmplCode&repo=DPlan-front&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&align=center) -->
 
