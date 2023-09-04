@@ -114,7 +114,7 @@
   <a href="https://linkedin.com/in/yabel-rodriguez" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="yabelrodriguez"
       width="24"
     />
@@ -123,7 +123,7 @@
   <a href="https://yabelrodriguez.netlify.app/" target="blank"
     ><img
       align="center"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Blue_globe_icon.svg"
       alt="yabel portofolio"
       width="24"
     />
