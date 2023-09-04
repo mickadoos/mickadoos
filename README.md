@@ -114,8 +114,8 @@
   <a href="https://linkedin.com/in/yabel-rodriguez" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"
-      alt="aitorlancharrohurtado"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="yabelrodriguez"
       width="24"
     />
   </a>
